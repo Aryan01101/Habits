@@ -1,0 +1,50 @@
+[
+    {
+      "habit": "Daily Exercise",
+      "time": "07:00"
+    },
+    {
+      "habit": "Daily Exercise",
+      "time": "18:00"
+    },
+    {
+      "habit": "Read 30 Minutes",
+      "time": "21:30"
+    },
+    {
+      "habit": "Meditate",
+      "time": "06:30"
+    },
+    {
+      "habit": "Meditate",
+      "time": "20:00"
+    },
+    {
+      "habit": "Learn Programming",
+      "time": "09:00"
+    },
+    {
+      "habit": "Learn Programming",
+      "time": "19:00"
+    },
+    {
+      "habit": "Drink Water",
+      "time": "08:00"
+    },
+    {
+      "habit": "Drink Water",
+      "time": "11:00"
+    },
+    {
+      "habit": "Drink Water",
+      "time": "14:00"
+    },
+    {
+      "habit": "Drink Water",
+      "time": "17:00"
+    },
+    {
+      "habit": "Drink Water",
+      "time": "20:00"
+    }
+  ]
